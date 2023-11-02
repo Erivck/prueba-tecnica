@@ -1,1 +1,0 @@
-{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../src/utils/omitPropertyFromObject/index.ts"],"names":[],"mappings":";;;AAAO,MAAM,sBAAsB,GAAG,CAAgC,MAAS,EAAE,QAAiB,EAAuB,EAAE;IACzH,MAAM,EAAC,CAAC,QAAQ,CAAC,EAAE,CAAC,EAAE,GAAG,cAAc,EAAC,GAAG,MAAM,CAAC;IAClD,OAAO,cAAc,CAAC;AACxB,CAAC,CAAA;AAHY,QAAA,sBAAsB,0BAGlC"}
